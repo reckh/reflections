@@ -21,3 +21,7 @@ Diagrams help visualized the branch structure by illustrating where the differen
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging two branches together creates a branch that has parents on both of the merged branches.  The new commit log has all of the parent commits.  We represent it in the diagram to show that both branches are the parent of the merged branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The benefit of the automatic merge is that it is quick and easy.  However, going through manually to examine the code can allow the user to make sure that there aren’t unnecessary duplications or conflicts in the code.
