@@ -17,3 +17,7 @@ It would be useful to use branches when I am making a different version of a fil
 How do the diagrams help you visualize the branch structure?
 
 Diagrams help visualized the branch structure by illustrating where the different branches connect and which commits are connected and which ones are not.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together creates a branch that has parents on both of the merged branches.  The new commit log has all of the parent commits.  We represent it in the diagram to show that both branches are the parent of the merged branch.
