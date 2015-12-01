@@ -13,3 +13,7 @@ Creating a fork is a way of cloning a repository on GitHub.  I can use it if I w
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This is helpful in case changes are made to the remote and you want to go back and be able to access and work off of the previous version.  It also allows you to be able to work offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would have to save different versions of files with slightly different names, and send those files to collaborators using email or file sharing. It would be easier to make changes without having to document the commit, but much harder to keep track of the details of updates (when, who, what, etc.) and it would be harder to merge multiple changes into one file.
