@@ -5,3 +5,7 @@ A remote repository allows for collaboration, and it might be more secure to sto
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 By pulling changes manually, you can make sure that you’re only taking the changes that you want to have on your local version.  This might be especially pertinent for projects with collaboration.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Creating a fork is a way of cloning a repository on GitHub.  I can use it if I want to copy someone’s repository and make changes, but still link back to them.  I would then clone the repository from GitHub to my local directory so that I can work on it locally.  A branch can be used to introduce changes to the code that might be experimental, or create a new feature.
