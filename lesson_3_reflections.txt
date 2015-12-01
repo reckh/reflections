@@ -9,3 +9,7 @@ By pulling changes manually, you can make sure that you’re only taking the cha
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Creating a fork is a way of cloning a repository on GitHub.  I can use it if I want to copy someone’s repository and make changes, but still link back to them.  I would then clone the repository from GitHub to my local directory so that I can work on it locally.  A branch can be used to introduce changes to the code that might be experimental, or create a new feature.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This is helpful in case changes are made to the remote and you want to go back and be able to access and work off of the previous version.  It also allows you to be able to work offline.
