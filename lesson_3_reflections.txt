@@ -1,1 +1,7 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+A remote repository allows for collaboration, and it might be more secure to store some work offsite.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+By pulling changes manually, you can make sure that you’re only taking the changes that you want to have on your local version.  This might be especially pertinent for projects with collaboration.
